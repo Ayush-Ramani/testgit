@@ -9,4 +9,5 @@ void main()
     area = l * b;
     printf("area=%d", area);
     printf("\n Add");
+    printf("\n successfull code");
 }
