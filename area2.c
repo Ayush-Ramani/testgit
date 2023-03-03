@@ -8,6 +8,5 @@ void main()
     scanf("%d", &b);
     area = l * b;
     printf("area=%d", area);
-    printf("\n Add");
-    printf("\n successfull code");
+    printf("\n c is mother language");
 }
