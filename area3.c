@@ -7,6 +7,7 @@ void main()
 
   printf("hello world");
   printf("\n take input from the user");
+  printf("\n thank you");
   printf("\n Enter value ");
   scanf("%d",&n);
 }
