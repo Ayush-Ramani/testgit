@@ -5,4 +5,5 @@ void main()
   printf("hello2");
 
   printf("hello world");
+  printf("\n take input from the user");
 }
