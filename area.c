@@ -9,4 +9,5 @@ void main()
     area = l * b;
     printf("area=%d", area);
    printf("use input for variable n");
+   printf("\n complete learn git and git hub");
 }
