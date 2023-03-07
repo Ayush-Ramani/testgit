@@ -8,6 +8,6 @@ void main()
     scanf("%d", &b);
     area = l * b;
     printf("area=%d", area);
-    printf("\n Add");
-    printf("\n successfull code");
+   printf("use input for variable n");
+   printf("\n complete learn git and git hub");
 }
